@@ -1,4 +1,4 @@
-## How to install BloodHound Legacy
+## How to install BloodHound Legacy in Linux
 
 ### Download the BloodHound Legacy 
 
